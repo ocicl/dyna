@@ -1,0 +1,10 @@
+* dyna
+
+Dyna is an AWS DynamoDB ORM for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Rudolph-Miller/dyna.git   |
+| commit  | d8cf27b  |
+| systems | dyna |
+|---------+-------------------------------------------|
+
